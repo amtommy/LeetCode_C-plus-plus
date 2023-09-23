@@ -3,7 +3,7 @@
 ## Blind 75 challenge
 **Mar 24, 2023 - present**
 
-| Type                    | Number | Status |
+| Type                    | Number | Done |
 | ----------------------- | ------ | ------ |
 | Array & HashTable       | 7      | 7      |
 | Two pointers            | 3      | 3      |
