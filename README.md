@@ -23,4 +23,3 @@
 | Intervals               | 5      |        |
 | Math & Geometry         | 3      |        |
 | Bit Manipulation        | 5      |        |
-| Total                   | 74     |        |
