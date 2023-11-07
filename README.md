@@ -8,7 +8,7 @@
 | Array & HashTable       | 7      | 7      |
 | Two pointers            | 3      | 3      |
 | Sliding Window          | 4      | 3      |
-| Stack                   | 1      |        |
+| Stack                   | 1      | 1      |
 | Binary Search           | 2      |        |
 | Linked List             | 6      |        |
 | Tree                    | 11     |        |
