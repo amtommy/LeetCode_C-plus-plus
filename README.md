@@ -1,7 +1,6 @@
 # LeetCode c++
 
 ## Blind 75 challenge
-**Mar 24, 2023 - present**
 
 | Type                    | Number | Done |
 | ----------------------- | ------ | ------ |
@@ -10,7 +9,7 @@
 | Sliding Window          | 4      | 3      |
 | Stack                   | 1      | 1      |
 | Binary Search           | 2      |        |
-| Linked List             | 6      | 2      |
+| Linked List             | 6      | 3      |
 | Tree                    | 11     |        |
 | Tries                   | 3      |        |
 | Heap / Priority Queue   | 1      |        |
