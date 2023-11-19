@@ -10,7 +10,7 @@
 | Stack                   | 1      | 1      |
 | Binary Search           | 2      |        |
 | Linked List             | 6      | 3      |
-| Tree                    | 11     | 1      |
+| Tree                    | 11     | 2      |
 | Tries                   | 3      |        |
 | Heap / Priority Queue   | 1      |        |
 | BackTracking            | 2      |        |
