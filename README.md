@@ -16,7 +16,7 @@
 | BackTracking            | 2      |        |
 | Graph                   | 6      |        |
 | Advanced Graphs         | 1      |        |
-| 1-D Dynamic Programming | 10     |        |
+| 1-D Dynamic Programming | 10     | 1      |
 | 2-D Dynamic Programming | 2      |        |
 | Greedy                  | 2      |        |
 | Intervals               | 5      |        |
