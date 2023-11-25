@@ -21,4 +21,4 @@
 | Greedy                  | 2      |        |
 | Intervals               | 5      |        |
 | Math & Geometry         | 3      |        |
-| Bit Manipulation        | 5      | 1      |
+| Bit Manipulation        | 5      | 2      |
