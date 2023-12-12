@@ -9,7 +9,7 @@
 | Sliding Window          | 4      | 3      |
 | Stack                   | 1      | 1      |
 | Binary Search           | 2      | 2      |
-| Linked List             | 6      | 3      |
+| Linked List             | 6      | 4      |
 | Tree                    | 11     | 4      |
 | Tries                   | 3      |        |
 | Heap / Priority Queue   | 1      |        |
