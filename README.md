@@ -13,7 +13,7 @@
 | Tree                    | 11     | 4      |
 | Tries                   | 3      |        |
 | Heap / Priority Queue   | 1      |        |
-| BackTracking            | 2      |        |
+| BackTracking            | 2      | 1      |
 | Graph                   | 6      |        |
 | Advanced Graphs         | 1      |        |
 | 1-D Dynamic Programming | 10     | 1      |
