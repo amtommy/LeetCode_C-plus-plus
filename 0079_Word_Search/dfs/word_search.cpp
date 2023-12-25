@@ -6,10 +6,10 @@ private:
         if(i < 0 || i >= board.size() || j < 0 || j >= board[0].size() || board[i][j] != word[wordIndex]) return false;
         char temp = board[i][j];
         board[i][j] = '*';
-        bool found = findTargetword(board, word, i+1, j, wordIndex + 1) ||
-                     findTargetword(board, word, i-1, j, wordIndex + 1) ||
-                     findTargetword(board, word, i, j+1, wordIndex + 1) ||
-                     findTargetword(board, word, i, j-1, wordIndex + 1);
+        bool found = findTargetword(board, word, i + 1, j, wordIndex + 1) ||
+                     findTargetword(board, word, i - 1, j, wordIndex + 1) ||
+                     findTargetword(board, word, i, j + 1, wordIndex + 1) ||
+                     findTargetword(board, word, i, j - 1, wordIndex + 1);
         board[i][j] = temp;
         return found;
     }
