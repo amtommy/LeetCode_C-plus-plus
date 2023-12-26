@@ -14,7 +14,7 @@
 | Tries                   | 3      | 2      |
 | Heap / Priority Queue   | 1      |        |
 | BackTracking            | 2      | 2      |
-| Graph                   | 6      |        |
+| Graph                   | 6      | 1      |
 | Advanced Graphs         | 1      |        |
 | 1-D Dynamic Programming | 10     | 1      |
 | 2-D Dynamic Programming | 2      |        |
