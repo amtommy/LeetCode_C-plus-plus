@@ -22,3 +22,26 @@
 | Intervals               | 5      |        |
 | Math & Geometry         | 3      |        |
 | Bit Manipulation        | 5      | 5      |
+
+## Others
+
+| Type                    | Done |
+| ----------------------- | ------ | ------ |
+| Array & HashTable       |        |
+| Two pointers            |        |
+| Sliding Window          |        |
+| Stack                   |        |
+| Binary Search           |        |
+| Linked List             |        |
+| Tree                    |        |
+| Tries                   |        |
+| Heap / Priority Queue   |        |
+| BackTracking            |        |
+| Graph                   |        |
+| Advanced Graphs         |        |
+| 1-D Dynamic Programming |        |
+| 2-D Dynamic Programming |        |
+| Greedy                  |        |
+| Intervals               |        |
+| Math & Geometry         | 1      |
+| Bit Manipulation        |        | 
