@@ -25,8 +25,8 @@
 
 ## Others
 
-| Type                    | Done |
-| ----------------------- | ------ | ------ |
+| Type                    | Done   |
+| ----------------------- | ------ |
 | Array & HashTable       |        |
 | Two pointers            |        |
 | Sliding Window          |        |
