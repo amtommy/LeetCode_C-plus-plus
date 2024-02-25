@@ -27,7 +27,7 @@
 
 | Type                    | Done   |
 | ----------------------- | ------ |
-| Array & HashTable       |        |
+| Array & HashTable       | 1      |
 | Two pointers            |        |
 | Sliding Window          |        |
 | Stack                   |        |
