@@ -20,14 +20,14 @@
 | 2-D Dynamic Programming | 2      |        |
 | Greedy                  | 2      |        |
 | Intervals               | 5      |        |
-| Math & Geometry         | 3      |        |
+| Math & Geometry         | 3      | 1      |
 | Bit Manipulation        | 5      | 5      |
 
 ## Others
 
 | Type                    | Done   |
 | ----------------------- | ------ |
-| Array & HashTable       | 1      |
+| Array & HashTable       |        |
 | Two pointers            |        |
 | Sliding Window          |        |
 | Stack                   |        |
