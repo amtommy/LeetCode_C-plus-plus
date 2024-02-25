@@ -33,7 +33,7 @@
 | Stack                   |        |
 | Binary Search           |        |
 | Linked List             |        |
-| Tree                    |        |
+| Tree                    | 1      |
 | Tries                   |        |
 | Heap / Priority Queue   |        |
 | BackTracking            |        |
